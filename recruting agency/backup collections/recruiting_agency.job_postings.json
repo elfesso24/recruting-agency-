@@ -1,0 +1,223 @@
+[{
+  "_id": {
+    "$oid": "64a1b2c3d4e5f6a7b8c9d201"
+  },
+  "employer": "TechCorp",
+  "position": "Backend Developer",
+  "required_skills": [
+    "Node.js",
+    "MongoDB",
+    "Express.js"
+  ],
+  "salary_range": {
+    "min": 85000,
+    "max": 132000
+  },
+  "location": "Remote",
+  "status": "open",
+  "posted_date": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "64a1b2c3d4e5f6a7b8c9d202"
+  },
+  "employer": "TechCorp",
+  "position": "Frontend Developer",
+  "required_skills": [
+    "React",
+    "JavaScript",
+    "CSS"
+  ],
+  "salary_range": {
+    "min": 50000,
+    "max": 110000
+  },
+  "location": "New York",
+  "status": "open",
+  "posted_date": {
+    "$date": "2023-10-02T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "64a1b2c3d4e5f6a7b8c9d203"
+  },
+  "employer": "DataTech",
+  "position": "Data Engineer",
+  "required_skills": [
+    "Python",
+    "SQL",
+    "Spark"
+  ],
+  "salary_range": {
+    "min": 90000,
+    "max": 130000
+  },
+  "location": "San Francisco",
+  "status": "closed",
+  "posted_date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "is_active": true,
+  "last_updated": {
+    "$date": "2025-01-22T22:23:50.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a1b2c3d4e5f6a7b8c9d204"
+  },
+  "employer": "Cloudify",
+  "position": "DevOps Engineer",
+  "required_skills": [
+    "Docker",
+    "Kubernetes",
+    "AWS"
+  ],
+  "salary_range": {
+    "min": 85000,
+    "max": 125000
+  },
+  "location": "Remote",
+  "status": "open",
+  "posted_date": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "64a1b2c3d4e5f6a7b8c9d205"
+  },
+  "employer": "MobileFirst",
+  "position": "iOS Developer",
+  "required_skills": [
+    "Swift",
+    "Xcode",
+    "Firebase"
+  ],
+  "salary_range": {
+    "min": 75000,
+    "max": 115000
+  },
+  "location": "Chicago",
+  "status": "open",
+  "posted_date": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "64a1b2c3d4e5f6a7b8c9d206"
+  },
+  "employer": "MobileFirst",
+  "position": "Android Developer",
+  "required_skills": [
+    "Kotlin",
+    "Java",
+    "SQLite"
+  ],
+  "salary_range": {
+    "min": 75000,
+    "max": 115000
+  },
+  "location": "Chicago",
+  "status": "open",
+  "posted_date": {
+    "$date": "2023-10-06T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "64a1b2c3d4e5f6a7b8c9d207"
+  },
+  "employer": "WebWorks",
+  "position": "Full Stack Developer",
+  "required_skills": [
+    "React",
+    "Node.js",
+    "MongoDB"
+  ],
+  "salary_range": {
+    "min": 80000,
+    "max": 120000
+  },
+  "location": "Remote",
+  "status": "open",
+  "posted_date": {
+    "$date": "2023-10-07T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "64a1b2c3d4e5f6a7b8c9d208"
+  },
+  "employer": "AI Innovations",
+  "position": "Machine Learning Engineer",
+  "required_skills": [
+    "Python",
+    "TensorFlow",
+    "SQL"
+  ],
+  "salary_range": {
+    "min": 95000,
+    "max": 135000
+  },
+  "location": "Boston",
+  "status": "open",
+  "posted_date": {
+    "$date": "2023-10-08T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "64a1b2c3d4e5f6a7b8c9d209"
+  },
+  "employer": "Blockchain Solutions",
+  "position": "Blockchain Developer",
+  "required_skills": [
+    "Solidity",
+    "Ethereum",
+    "JavaScript"
+  ],
+  "salary_range": {
+    "min": 90000,
+    "max": 130000
+  },
+  "location": "Remote",
+  "status": "open",
+  "posted_date": {
+    "$date": "2023-10-09T00:00:00.000Z"
+  },
+  "is_active": true
+},
+{
+  "_id": {
+    "$oid": "64a1b2c3d4e5f6a7b8c9d210"
+  },
+  "employer": "GameStudio",
+  "position": "Game Developer",
+  "required_skills": [
+    "C#",
+    "Unity",
+    "OpenGL"
+  ],
+  "salary_range": {
+    "min": 70000,
+    "max": 110000
+  },
+  "location": "Los Angeles",
+  "status": "open",
+  "posted_date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "is_active": true
+}]
